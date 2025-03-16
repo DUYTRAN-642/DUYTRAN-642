@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there | Bonjour | Xin Chào! 👋
 
 <!--
 **DUYTRAN-642/DUYTRAN-642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
